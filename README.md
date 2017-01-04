@@ -8,4 +8,4 @@ You control a character whose goal is to get as high of an elevation as possible
 
 The game is played using arrow keys or 'a'/'d'.
 
-The random#.txt control where the platforms are drawn and are rewritten each time the game is run, if you would like to replay the exact same platfor mlayout as the previous game, run doodle_jump.pyc instead of doodle_jump.py
+The random#.txt control where the platforms are drawn and are rewritten each time the game is run, if you would like to replay the exact same platform layout as the previous game, run doodle_jump.pyc instead of doodle_jump.py
